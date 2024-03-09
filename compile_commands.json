@@ -1,0 +1,70 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "include",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-o",
+      "bin/balls",
+      "src/files.c"
+    ],
+    "directory": "/home/zakariyya/Horakhty/muse",
+    "file": "/home/zakariyya/Horakhty/muse/src/files.c",
+    "output": "/home/zakariyya/Horakhty/muse/bin/balls"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "include",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-o",
+      "bin/balls",
+      "src/main.c"
+    ],
+    "directory": "/home/zakariyya/Horakhty/muse",
+    "file": "/home/zakariyya/Horakhty/muse/src/main.c",
+    "output": "/home/zakariyya/Horakhty/muse/bin/balls"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "include",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-o",
+      "bin/balls",
+      "src/miniaudio.c"
+    ],
+    "directory": "/home/zakariyya/Horakhty/muse",
+    "file": "/home/zakariyya/Horakhty/muse/src/miniaudio.c",
+    "output": "/home/zakariyya/Horakhty/muse/bin/balls"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "include",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-o",
+      "bin/balls",
+      "src/sounds.c"
+    ],
+    "directory": "/home/zakariyya/Horakhty/muse",
+    "file": "/home/zakariyya/Horakhty/muse/src/sounds.c",
+    "output": "/home/zakariyya/Horakhty/muse/bin/balls"
+  }
+]
